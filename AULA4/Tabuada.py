@@ -1,6 +1,6 @@
 def gerar_tabuada():
 # Numero em string
-    numero_str = input("Digite um número para ver a tabuada do 1 ao 10:")
+    numero_str = input("Digite um número para ver a tabuada:")
 
     # Transformar a "," em "."
     numero_str = numero_str.replace(',', '.')
