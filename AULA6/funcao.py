@@ -1,7 +1,7 @@
-# def saudacao ():
-#     print("Olá, essa é uma funçaõ de saudação")
+def saudacao ():
+    print("Olá, essa é uma funçaõ de saudação")
     
-# saudacao ()
+saudacao ()
 
 def soma(a, b):
     resultado = a + b
